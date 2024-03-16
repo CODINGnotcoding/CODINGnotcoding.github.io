@@ -7,22 +7,22 @@ html{
 .nabla{
     font-family: Nabla;
     font-size: 30px;
-    color: hwb(53 33% 0%);
+    color: yellow;
 }
 .gif{
     height: 290px;
 }
 h2{
     font-family: Tourney;
-    color: hwb(53 33% 0%);
+    color: (53 33% 0%)
 }
 li{
     font-family: Nabla;
-    color: hwb(53 33% 0%);
+    color: yellow;
 }
 ul{
     font-family: Nabla;
-    color: hwb(53 33% 0%);
+    color: yellow;
 }
 a{
     color: rgb(108, 255, 244);
