@@ -7,7 +7,7 @@ html{
 .nabla{
     font-family: Nabla;
     font-size: 30px;
-    font-color: yellow;
+    color: hwb(53 33% 0%);
 }
 .gif{
     height: 290px;
@@ -18,11 +18,11 @@ h2{
 }
 li{
     font-family: Nabla;
-    font-color: yellow;
+    color: hwb(53 33% 0%);
 }
 ul{
     font-family: Nabla;
-    font-color: yellow;
+    color: hwb(53 33% 0%);
 }
 a{
     color: rgb(108, 254, 244);
