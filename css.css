@@ -5,7 +5,7 @@ html{
     background-image:url(./phot\ o.jpg);
 }
 .nabla{
-    font-family: Nabla;
+    font-family: Nabla, Tourney;
     font-size: 30px;
     color: yellow;
 }
@@ -17,11 +17,11 @@ h2{
     color: (53 33% 0%)
 }
 li{
-    font-family: Nabla;
+    font-family: Nabla, Tourney;
     color: yellow;
 }
 ul{
-    font-family: Nabla;
+    font-family: Nabla, Tourney;
     color: yellow;
 }
 a{
