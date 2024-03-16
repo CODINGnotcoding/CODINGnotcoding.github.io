@@ -1,0 +1,26 @@
+#logo{
+    height: 80px;
+}
+html{
+    background-color: #2659c8;
+}
+.nabla{
+    font-family: Nabla;
+    font-size: 30px;
+}
+.gif{
+    height: 290px;
+}
+h2{
+    font-family: Tourney;
+    color: hwb(53 33% 0%);
+}
+li{
+    font-family: Nabla;
+}
+ul{
+    font-family: Nabla;
+}
+a{
+    color: rgb(108, 254, 244);
+}
