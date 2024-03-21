@@ -11,6 +11,7 @@ html{
 }
 .gif{
     height: 290px;
+    border:5px solid black;
 }
 h2{
     font-family: Tourney;
@@ -26,4 +27,7 @@ ul{
 }
 a{
     color: rgb(108, 255, 244);
+}
+h1{
+    border:solid black;
 }
